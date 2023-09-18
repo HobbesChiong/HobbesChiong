@@ -33,7 +33,7 @@
   - Created comprehensive test functions using JUnit to achieve 100% code coverage, significantly improving overall code quality
   
   #### [Rebel Finder](https://github.com/HobbesChiong/Rebel_Finder) - CMPT 276
-  - Designed and developed a Minesweeper clone for Android using \textbf{Java} and \textbf{Android SDK}
+  - Designed and developed a Minesweeper clone for Android using **Java** and **Android SDK**
   - Implemented the core Minesweeper game logic, including grid generation, bomb placement, tile revealing, and win conditions,
   - Created an intuitive and user-friendly interface, ensuring a seamless and engaging gaming experience using \textbf{Android Studio's Layout Editor} to edit XML files
     
@@ -42,18 +42,17 @@
   ## 🐱‍💻 Hackathons
   
   ### ✍️ [JapanGo](https://github.com/bxian03/StormHacks2023)
-  JapanGo is a thrilling multiplayer, web-based game designed to immerse players in the world of Japanese hiragana and kanji characters while engaging in an exciting competition. Aspiring linguists and Japanese language enthusiasts gather together to put their       knowledge to the test in a fast-paced race to correctly guess characters before their opponents.
+  JapanGo is a multiplayer, web-based game designed to help people become familiar with the Japanese alphabets in a fun and competitive way. Inspired by skribbl.io, users are able to create a room, share the code and then race to see who can decipher the question first. It was created during Stormhacks 2023, an in-person 24 hour hackathon. Using websockets and Firebase, we were able to create a real-time connection between different clients with minimal latency, removing technical issues so that users could focus on memorizing their alphabets. Other technologies that we used include React and Tailwind for the frontend, and Python with FastAPI in the backend.
   
   ### 🧪 [Organic Chemistry Quiz Discord Bot](https://github.com/im-calvin/HackToSchoolBot22) [(Hack To School 2022 Hackathon First Overall)](https://github.com/bxian03/HackToSchoolAPI22)
-  The Organic Chemistry Quiz Discord Bot was aimed to make learning compound names more fun and engaging. We created a Discord bot that quizzes users on compound names and awards points for correct answers. Participating in my first hackathon was an amazing learning   
-  experience where I honed my skills in pair programming, time-management, and effective communication
+  The Organic Chemistry Quiz Discord Bot was aimed to make learning compound names more fun and engaging. We created a Discord bot that quizzes users on compound names and awards points for correct answers. It was created in Hack To School 2022 a 48 hour MLH Hackathon, we used discord.py for the bot, Express.JS for the API and MongoDB for the database. Participating in my first hackathon was an amazing learning experience where I honed my skills in pair programming, time-management, and effective communication
 </details>
 
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
  
   ### 💻 [Personal Website](https://github.com/HobbesChiong/website)
-  This is my personal portfolio website , custom built using React, HTML, and TailwindCSS. It showcases my skills and projects, and provides a way for potential clients and collaborators to get in touch with me. It is currently a WIP and is not deployed as of right       now.
+  This is my personal portfolio website , custom built using React, HTML, and TailwindCSS. It showcases my skills and projects, and provides a way for potential clients and collaborators to get in touch with me. It is currently a WIP and is not deployed as of right now.
 </details>
 
 <h3 align="left">Connect with me:</h3>
