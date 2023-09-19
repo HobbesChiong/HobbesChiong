@@ -35,7 +35,7 @@
   #### [Rebel Finder](https://github.com/HobbesChiong/Rebel_Finder) - CMPT 276
   - Designed and developed a Minesweeper clone for Android using **Java** and **Android SDK**
   - Implemented the core Minesweeper game logic, including grid generation, bomb placement, tile revealing, and win conditions,
-  - Created an intuitive and user-friendly interface, ensuring a seamless and engaging gaming experience using \textbf{Android Studio's Layout Editor} to edit XML files
+  - Created an intuitive and user-friendly interface, ensuring a seamless and engaging gaming experience using **Android Studio's Layout Editor** to edit XML files
     
 <!-- Hackathons --> 
 
