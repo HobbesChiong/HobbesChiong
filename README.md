@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shc26@sfu.ca**
 
-- ⚡ Fun fact **I create Rock and EDM music on the side**
+- ⚡ Fun fact **I make Rock and EDM music on the side**
   
 - 📝 My current areas of interests are **Backend Devlopement, Mobile Development, Web development, Artificial Intelligence and Machine Learning**
 
