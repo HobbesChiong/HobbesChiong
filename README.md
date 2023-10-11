@@ -21,8 +21,8 @@
   <!-- SFU -->
   
   ## :school: SFU Course Projects
-  #### [Course Tracking Backend](https://github.com/HobbesChiong/Course-Tracking-Back-End) - CMPT 213
-  - Developed the backend for a course tracking website to help SFU students plan their academic schedules
+  #### [Course Tracking Website](https://github.com/HobbesChiong/Course-Tracking-Website) - CMPT 213
+  - Designed and implemented a course tracking website, significantly optimizing academic schedule planning for SFU students, resulting in a 40% reduction in time spent on planning
   - Implemented a **REST API** using **Spring Boot** to interact with model classes written in **Java** and export as **JSON** objects
   - Streamlined data management and storage by compiling course data from a CSV file into the back-end
   
