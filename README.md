@@ -25,6 +25,7 @@
   - Designed and implemented a course tracking website, significantly optimizing academic schedule planning for SFU students, resulting in a 40% reduction in time spent on planning
   - Implemented a **REST API** using **Spring Boot** to interact with model classes written in **Java** and export as **JSON** objects
   - Streamlined data management and storage by compiling course data from a CSV file into the back-end
+  - Developed the frontend using **HTML, CSS, and JavaScript** to provide an intuitive and responsive user interface.
   
   #### [Co-operative-Goals-for-Competitive-Games](https://github.com/HobbesChiong/Co-operative-Goals-for-Competitive-Games) - CMPT 276
   - Developed a mobile application using Java and Android SDK, enabling CRUD operations to manage the data of various games
