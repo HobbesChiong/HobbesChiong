@@ -5,7 +5,7 @@
 
 :student: I'm currenlty a third year Computer Science student at SFU, my strenghts are in backend and mobile (Android) development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing games.
 
-- 🌱 I’m currently learning about **Web development and Databases at SFU**
+- 🌱 I’m currently working at Rivian as a **Mobile Software Engineer Intern**
 
 - 👨‍💻 All of my projects are available at [HobbesChiong](https://github.com/HobbesChiong)
 
