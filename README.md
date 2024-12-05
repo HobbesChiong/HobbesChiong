@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobbeschiong&label=Profile%20views&color=0e75b6&style=flat" alt="hobbeschiong" /> </p>
 
-:student: I'm currenlty a third year Computer Science student at SFU, my strenghts are in backend and native iOS and Android development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing games.
+:student: I'm currenlty a third year Computer Science student at SFU, my strengths are in native iOS and Android development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing games.
 
 - 🌱 I’m previously worked at Rivian as a **Mobile Software Engineer Intern**
 
 - 👨‍💻 All of my projects are available at [HobbesChiong](https://github.com/HobbesChiong)
 
-- 📫 How to reach me **shc26@sfu.ca**
+- 📫 How to reach me **hobbeschiong@gmail.com**
 
 - ⚡ Fun fact **I make Rock and EDM music on the side**
   
