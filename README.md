@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Hobbes Chiong</h1>
-<h3 align="center">Third Year CS Student at SFU seeking Co-op</h3>
+<h3 align="center">Fourth Year CS Student at SFU seeking Co-op</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobbeschiong&label=Profile%20views&color=0e75b6&style=flat" alt="hobbeschiong" /> </p>
 
