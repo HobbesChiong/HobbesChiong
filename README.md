@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobbeschiong&label=Profile%20views&color=0e75b6&style=flat" alt="hobbeschiong" /> </p>
 
-:student: I'm currently a fourth year Computer Science student at SFU, my strengths are in native iOS and Android development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing badminton.
+:student: I'm currently a fourth year Computer Science student at SFU, my strengths are in native iOS and Android development as well as Full Stack development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing badminton.
 
-- 🌱 I previously worked at Rivian as a **Mobile Software Engineer Intern**
+- 🌱 I previously worked at Amazon as a **Software Engineer Intern** and Rivian as a **Mobile Software Engineer Intern**
 
 - 👨‍💻 All of my projects are available at [HobbesChiong](https://github.com/HobbesChiong)
 
