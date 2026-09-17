@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stanley Hobbes Chiong</h1>
-<h3 align="center">Fourth Year CS Student at SFU seeking Co-op</h3>
+<h3 align="center">SDE I at Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobbeschiong&label=Profile%20views&color=0e75b6&style=flat" alt="hobbeschiong" /> </p>
 
-:student: I'm currently a fourth year Computer Science student at SFU, my strengths are in native iOS and Android development as well as Full Stack development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy producing music and playing badminton.
+:student: I'm currently a SDE I at AmazonU, my strengths are in native iOS and Android development as well as Full Stack development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy playing badminton and riftbound.
 
-- 🌱 I previously worked at Amazon as a **Software Engineer Intern** and Rivian as a **Mobile Software Engineer Intern**
+- 🌱 I previously interned at Tesla working on Robotaxi, Amazon under the Fintech Org and Rivian working on the Mobile Rivian Owner App
 
 - 👨‍💻 All of my projects are available at [HobbesChiong](https://github.com/HobbesChiong)
 
 - 📫 How to reach me **hobbeschiong@gmail.com**
-
-- ⚡ Fun fact **I make Rock and EDM music on the side**
   
-- 📝 My current areas of interests are **Mobile Development, Backend Devlopement, Web development, Artificial Intelligence and Machine Learning**
+- 📝 My current areas of interests are **Mobile Development, Backend Devlopement, Web development**
 
 <details>
   <summary>:card_file_box: Past Projects</summary>
