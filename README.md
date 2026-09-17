@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobbeschiong&label=Profile%20views&color=0e75b6&style=flat" alt="hobbeschiong" /> </p>
 
-:student: I'm currently a SDE I at AmazonU, my strengths are in native iOS and Android development as well as Full Stack development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy playing badminton and riftbound.
+:student: I'm currently a SDE I at Amazon, my strengths are in native iOS and Android development as well as Full Stack development. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time aside from coding, I enjoy playing badminton and riftbound.
 
 - 🌱 I previously interned at Tesla working on Robotaxi, Amazon under the Fintech Org and Rivian working on the Mobile Rivian Owner App
 
