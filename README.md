@@ -46,13 +46,7 @@
   ### 🧪 [Organic Chemistry Quiz Discord Bot](https://github.com/im-calvin/HackToSchoolBot22) [(Hack To School 2022 Hackathon First Overall)](https://github.com/bxian03/HackToSchoolAPI22)
   The Organic Chemistry Quiz Discord Bot was aimed to make learning compound names more fun and engaging. We created a Discord bot that quizzes users on compound names and awards points for correct answers. It was created in Hack To School 2022 a 48 hour MLH Hackathon, we used discord.py for the bot, Express.JS for the API and MongoDB for the database. Participating in my first hackathon was an amazing learning experience where I honed my skills in pair programming, time-management, and effective communication
 </details>
-
-<details open>
-  <summary>:card_index_dividers: Current Projects</summary>
  
-  ### 💻 [Personal Website](https://github.com/HobbesChiong/website)
-  This is my personal portfolio website , custom built using React, HTML, and TailwindCSS. It showcases my skills and projects, and provides a way for potential clients and collaborators to get in touch with me. It is currently a WIP and is not deployed as of right now.
-</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
